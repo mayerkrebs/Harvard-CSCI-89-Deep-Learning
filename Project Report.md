@@ -53,9 +53,9 @@ img {
 > **Teaching Assistants: Andrey Sivachenko, Andrea Hatch, Kurt Rayner, and Sathvika Iyengar**
 >
 > 
-> **Github Repository:** https://github.com/mayerkrebs/Harvard-CSCI-89-Deep-Learning  
-> **Raw Dataset URL:** https://repository.kulib.kyoto-u.ac.jp/items/7f0f28bd-f9b0-4603-be8e-7c7d908a245f  
-> **Project Dataset:** https://drive.google.com/file/d/1QmX8vWyJzU3U1tOJvRGy-d3xL3XbvAZf/view?usp=sharing  
+> **[GitHub Repository](https://github.com/mayerkrebs/Harvard-CSCI-89-Deep-Learning)**  
+> **[Raw Dataset](https://repository.kulib.kyoto-u.ac.jp/items/7f0f28bd-f9b0-4603-be8e-7c7d908a245f)**  
+> **[Project Dataset](https://drive.google.com/file/d/1QmX8vWyJzU3U1tOJvRGy-d3xL3XbvAZf/view?usp=sharing)**  
 
 ---
 
