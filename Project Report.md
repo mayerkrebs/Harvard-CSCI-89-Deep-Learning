@@ -45,16 +45,17 @@ img {
 }
 </style>
 
-# Wood Genus Classification from Microscopic Images Using Convolutional Neural Networks and Transfer Learning
+# Wood Genus Classification from Microscopic Images with CNNs and Transfer Learning
 
 > **Martin Mayer**  
 > **CSCI E-89**  
 > **Professor: Dmitry Kurochkin, PhD**  
-> **Teaching Assistants: Andrey Sivachenko, Andrea Hatch, Kurt Rayner, and Sathvika Iyengar**  
-> **Official dataset URL: https://repository.kulib.kyoto-u.ac.jp/items/7f0f28bd-f9b0-4603-be8e-7c7d908a245f**
-> **[TODO: ADD 7-15 MINUTE VIDEO LINK]**  
-> **[TODO: ADD REPOSITORY URL]**  
-> **[TODO: ADD CLEAN DATASET URL]**  
+> **Teaching Assistants: Andrey Sivachenko, Andrea Hatch, Kurt Rayner, and Sathvika Iyengar**
+>
+> 
+> **Github Repository:** https://github.com/mayerkrebs/Harvard-CSCI-89-Deep-Learning  
+> **Raw Dataset URL:** https://repository.kulib.kyoto-u.ac.jp/items/7f0f28bd-f9b0-4603-be8e-7c7d908a245f  
+> **Project Dataset:** https://drive.google.com/file/d/1QmX8vWyJzU3U1tOJvRGy-d3xL3XbvAZf/view?usp=sharing  
 
 ---
 

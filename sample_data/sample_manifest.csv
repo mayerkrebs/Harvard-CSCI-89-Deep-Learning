@@ -1,0 +1,13 @@
+filepath,genus,specimen_id,split,image_index,h5_path
+images/train/Acer/prep_09587_001.png,Acer,prep_09587,train,1,Sapindaceae/Acer/Acer_pictum_subsp_mayrii/prep_09587
+images/train/Acer/prep_09587_008.png,Acer,prep_09587,train,8,Sapindaceae/Acer/Acer_pictum_subsp_mayrii/prep_09587
+images/train/Acer/prep_09616_006.png,Acer,prep_09616,train,6,Sapindaceae/Acer/Acer_japonicum/prep_09616
+images/train/Acer/prep_09616_009.png,Acer,prep_09616,train,9,Sapindaceae/Acer/Acer_japonicum/prep_09616
+images/train/Betula/prep_09853_000.png,Betula,prep_09853,train,0,Betulaceae/Betula/Betula_platyphylla_var_japonica/prep_09853
+images/train/Betula/prep_09853_010.png,Betula,prep_09853,train,10,Betulaceae/Betula/Betula_platyphylla_var_japonica/prep_09853
+images/validation/Betula/prep_10323_001.png,Betula,prep_10323,validation,1,Betulaceae/Betula/Betula_ermanii/prep_10323
+images/validation/Betula/prep_10323_003.png,Betula,prep_10323,validation,3,Betulaceae/Betula/Betula_ermanii/prep_10323
+images/test/Litsea/KYOw_02813_003.png,Litsea,KYOw_02813,test,3,Lauraceae/Litsea/Litsea_coreana/KYOw_02813
+images/test/Litsea/KYOw_02813_008.png,Litsea,KYOw_02813,test,8,Lauraceae/Litsea/Litsea_coreana/KYOw_02813
+images/train/Litsea/KYOw_18538_000.png,Litsea,KYOw_18538,train,0,Lauraceae/Litsea/Litsea_coreana/KYOw_18538
+images/train/Litsea/KYOw_18538_009.png,Litsea,KYOw_18538,train,9,Lauraceae/Litsea/Litsea_coreana/KYOw_18538
